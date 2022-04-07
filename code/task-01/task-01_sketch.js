@@ -3,9 +3,9 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(400, 800);
+  createCanvas(400, 200);
 }
 
 function draw() {
-  background(100);
+  background(0);
 }
